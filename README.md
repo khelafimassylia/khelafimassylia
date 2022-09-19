@@ -13,7 +13,7 @@ I am an electronic engeneering student <img src="https://media.giphy.com/media/W
 
 - :seedling: I am passionate about biomedical ,robotic, artificial intelligence and the recent technologies these fields combined provide for people in need.
 
-- :zap: In my free time, I  read tech articles.
+- :zap: In my free time, I  read tech articles and watch some anime .
 
 - :mailbox:How to reach me: 
 
