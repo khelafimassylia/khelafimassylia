@@ -9,11 +9,11 @@
 
 ### :woman_technologist: About Me :
 I am an electronic engeneering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently working on gesture recognition using transfer learning and scalograms as input data.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: I am passionate about biomedical ,robotic, artificial intelligence and the recent technologies these fields combined provide for people in need.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I  read tech articles.
 
 - :mailbox:How to reach me: 
 
