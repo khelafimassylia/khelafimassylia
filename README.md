@@ -7,7 +7,7 @@
     <img src="https://komarev.com/ghpvc/?username=MohamedNennouche" alt="visitors" />
   </a>
   <a href="https://wakatime.com/@7c8783fb-ca6c-4901-8034-8ba5ee05aa35">
-    <img src="https://wakatime.com/badge/khelafimassylia/7c8783fb-ca6c-4901-8034-8ba5ee05aa35.svg" alt="wakatime activities" />
+    <img src="https://wakatime.com/badge/user/7c8783fb-ca6c-4901-8034-8ba5ee05aa35.svg" alt="wakatime activities" />
   </a> 
 </p>
 
