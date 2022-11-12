@@ -6,8 +6,8 @@
   <a href="https://github.com/sudiptob2/">
     <img src="https://komarev.com/ghpvc/?username=MohamedNennouche" alt="visitors" />
   </a>
-  <a href="https://wakatime.com/@1dace552-f52d-4c2c-913e-eacfe1d41572">
-    <img src="https://wakatime.com/badge/user/1dace552-f52d-4c2c-913e-eacfe1d41572.svg" alt="wakatime activities" />
+  <a href="https://wakatime.com/@7c8783fb-ca6c-4901-8034-8ba5ee05aa35">
+    <img src="https://wakatime.com/badge/khelafimassylia/7c8783fb-ca6c-4901-8034-8ba5ee05aa35.svg" alt="wakatime activities" />
   </a> 
 </p>
 
