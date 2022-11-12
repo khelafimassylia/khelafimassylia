@@ -13,18 +13,13 @@
   </a> 
 </p>
 
-### Now
-- :rocket: Creator and maintainer of [WaterRocket](https://github.com/MohamedNennouche/Water-rocket-launch-simulator)
-- :fire: Interested in signal and image processing and their implementation on different boards
-- :calendar: Looking for contributing to 
 ### :woman_technologist: About Me :
 I am an electronic engeneering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+- :fire: Interested in signal and image processing and their implementation on different boards
+- :calendar: Looking for contributing to 
 - :telescope: I’m currently working on gesture recognition using transfer learning and scalograms as input data.
-
 - :seedling: I am passionate about biomedical ,robotic, artificial intelligence and the recent technologies these fields combined provide for people in need.
-
 - :zap: In my free time, I  read tech articles and watch some anime .
-
 - :mailbox:How to reach me: 
 
 [![Linkedin Badge](https://img.shields.io/badge/-linkdinprofile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/massylia-khelafi-0796841a7/)
@@ -45,20 +40,6 @@ I am an electronic engeneering student <img src="https://media.giphy.com/media/W
 </div>
 
 ---
-
-### My current stack
-<img height="48" src="img/python.svg" alt="python"> <img height="48" src="img/postgresql.svg" alt="postgresql"> <img height="48" src="img/Linux.svg" alt="Linux"> <img height="48" src="img/aws.svg" alt="AWS"> <img height="48" src="img/amazon-s3.svg" alt="Amazon S3"> <img height="48" src="img/aws-redshift.svg" alt="Amazon Redshift"> <img height="48" src="img/Git.svg" alt="Git">
-
-### Data visualization tools used
-<img height="48" src="img/google-data-studio.svg" alt="Google Data Studio"> <img height="48" src="img/amazon-quicksight.svg" alt="Amazon Quicksight"> <img height="48" src="img/Power_BI.svg" alt="Power BI">
-
-### Python libraries mastered
-<img height="48" src="img/pandas.svg" alt="Pandas"> <img height="48" src="img/numpy.svg" alt="Numpy"> <img height="48" src="img/Matplotlib.svg" alt="Matplotlib"> <img height="48" src="img/seaborn.svg" alt="Seaborn"> <img height="48" src="img/Scikitlearn.svg" alt="Scikitlearn"> <img height="48" src="img/keras.svg" alt="Keras"> <img height="48" src="img/tensorflow.svg" alt="Tensorflow"> <img height="48" src="img/OpenCV.svg" alt="OpenCV"> <img height="48" src="img/selenium.svg" alt="Selenium"> 
-
-### Softwares and tools I use daily
-<img height="48" src="img/vscode.svg" alt="vscode"> <img height="48" src="img/DBeaver.svg" alt="DBeaver"> <img height="48" src="img/datagrip.svg" alt="datagrip"> <img height="48" src="img/s3browser.png" alt="s3 browser"> <img height="48" src="img/postman.svg" alt="postman"> <img height="48" src="img/colab.svg" alt="Google colab"> <img height="48" src="img/Gradient.png" alt="Paperspace Gradient"> <img height="48" src="img/notion.svg" alt="Notion">
-
-### Development Stuffs
 #### ⚡ Github Stats
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khelafimassylia
