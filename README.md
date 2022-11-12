@@ -67,18 +67,14 @@ I am an electronic engeneering student <img src="https://media.giphy.com/media/W
 
 #### :watch: Wakatime Stats
 
-[![Mohamed's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MohamedNennouche)](https://wakatime.com/@1dace552-f52d-4c2c-913e-eacfe1d41572)
+[![Massylia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khelafimassylia)](https://wakatime.com/@7c8783fb-ca6c-4901-8034-8ba5ee05aa35)
 
 #### :chart_with_upwards_trend: Competitions
 Coming soon
 
 ### Connect with me
 <div id="social-media" style="text-align:left">
-    <a href="https://www.linkedin.com/in/mohamed-nennouche/">
+    <a href="https://www.linkedin.com/in/khelafimassylia/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge">
-    </a>
-    <a href="https://www.facebook.com/mohamed.nennouche.1">
-        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-    </a>
-    <a href="mailto:moohaameed.nennouche@gmail.com"> <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+    <a href="mailto:massylia.khelafi@g.enp.edu.dz"> <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
