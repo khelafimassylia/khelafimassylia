@@ -1,18 +1,4 @@
 ## Hi 👋, I'm a Electronic student at the national polytechnique school of Algiers
-<p align="left">
-  <a href="https://github.com/sudiptob2?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/khelafimassylia
-?color=green&logo=github">
-  </a>
-  <a href="https://github.com/sudiptob2/">
-    <img src="https://komarev.com/ghpvc/?username=khelafimassylia
-" alt="visitors" />
-  </a>
-  <a href="https://wakatime.com/@7c8783fb-ca6c-4901-8034-8ba5ee05aa35">
-    <img src="https://wakatime.com/badge/user/7c8783fb-ca6c-4901-8034-8ba5ee05aa35.svg" alt="wakatime activities" />
-  </a> 
-</p>
-
 ### :woman_technologist: About Me :
 I am an electronic engeneering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :fire: Interested in signal and image processing and their implementation on different boards
@@ -20,10 +6,7 @@ I am an electronic engeneering student <img src="https://media.giphy.com/media/W
 - :telescope: I’m currently working on gesture recognition using transfer learning and scalograms as input data.
 - :seedling: I am passionate about biomedical ,robotic, artificial intelligence and the recent technologies these fields combined provide for people in need.
 - :zap: In my free time, I  read tech articles and watch some anime .
-- :mailbox:How to reach me: 
 
-[![Linkedin Badge](https://img.shields.io/badge/-linkdinprofile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/massylia-khelafi-0796841a7/)
-- :email: Send me an email to massylia.khelafi@gmail.com
 
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"  title="vscode" alt="p" width="40" height="40"/>&nbsp;
@@ -40,24 +23,31 @@ I am an electronic engeneering student <img src="https://media.giphy.com/media/W
 </div>
 
 ---
-#### ⚡ Github Stats
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=khelafimassylia
-e&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelafimassylia
-e&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=khelafimassylia
+&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" alt="khelafimassylia
+'s GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelafimassylia
+&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="https://streak-stats.demolab.com?user=khelafimassylia
+&theme=tokyonight&hide_border=true" alt="khelafimassylia
+'s GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
 
 #### :eyes: Github Recent activity
 <a href="https://github.com/khelafimassylia
-"><img alt=" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khelafimassylia
-e&custom_title=Massylia's%20Contribution%20Graph&theme=react" /></a>
-
-#### :watch: Wakatime Stats
-
-[![Massylia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=khelafimassylia)](https://wakatime.com/@7c8783fb-ca6c-4901-8034-8ba5ee05aa35)
-
-#### :chart_with_upwards_trend: Competitions
-Coming soon
+"><img alt="Massylia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khelafimassylia
+&custom_title=Massylia's%20Contribution%20Graph&theme=react" /></a>
 
 ### Connect with me
 <div id="social-media" style="text-align:left">
