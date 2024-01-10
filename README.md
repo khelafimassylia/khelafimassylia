@@ -1,9 +1,9 @@
-## Hi 👋, I'm a Electronic student at the national polytechnique school of Algiers
+## Hi 👋, I'm a master student at UNIVERSITE PARIS SACLAY(Central supélec)
 ### :woman_technologist: About Me :
 I am an electronic engeneering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :fire: Interested in signal and image processing and their implementation on different boards
-- :calendar: Looking for contributing to 
-- :telescope: I’m currently working on gesture recognition using transfer learning and scalograms as input data.
+- :calendar: Looking for contributing to ...
+- :telescope: I’m currently working on "Cardiovascular model comparison & HRV coherence"
 - :seedling: I am passionate about biomedical ,robotic, artificial intelligence and the recent technologies these fields combined provide for people in need.
 - :zap: In my free time, I  read tech articles and watch some anime .
 
