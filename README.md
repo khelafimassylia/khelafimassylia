@@ -44,10 +44,7 @@ I am a 23 year old  electronic engineer (graduated on june 2023)<img src="https:
   </tr>
 </table>
 
-#### :eyes: Github Recent activity
-<a href="https://github.com/khelafimassylia
-"><img alt="Massylia's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=khelafimassylia
-&custom_title=Massylia's%20Contribution%20Graph&theme=react" /></a>
+
 
 ### Connect with me
 <div id="social-media" style="text-align:left">
