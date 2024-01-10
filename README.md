@@ -1,6 +1,6 @@
 ## Hi 👋, I'm a master student at UNIVERSITE PARIS SACLAY(Central supélec)
 ### :woman_technologist: About Me :
-I am an electronic engeneering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
+I am a 23 year old  electronic engineer (graduated on june 2023)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> .
 - :fire: Interested in signal and image processing and their implementation on different boards
 - :calendar: Looking for contributing to ...
 - :telescope: I’m currently working on "Cardiovascular model comparison & HRV coherence"
