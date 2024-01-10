@@ -5,7 +5,7 @@ I am an electronic engeneering student <img src="https://media.giphy.com/media/W
 - :calendar: Looking for contributing to ...
 - :telescope: I’m currently working on "Cardiovascular model comparison & HRV coherence"
 - :seedling: I am passionate about biomedical ,robotic, artificial intelligence and the recent technologies these fields combined provide for people in need.
-- :zap: In my free time, I  read tech articles and watch some anime .
+- :zap: In my free time, I  read tech articles and watch some anime (ONE PIECE FAN).
 
 
 <div>
